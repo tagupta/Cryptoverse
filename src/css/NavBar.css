@@ -1,0 +1,12 @@
+.css-3v9zut{
+    justify-content: space-between;
+}
+.drawer-header{
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+    /* background-image: linear-gradient(to right top, #090407, #151215, #1d1b1e, #252429, #2d2d33, #2d2f37, #2c323a, #2b343d, #203039, #152d34, #08292d, #002525) !important; */
+    background-color: black !important;
+}
